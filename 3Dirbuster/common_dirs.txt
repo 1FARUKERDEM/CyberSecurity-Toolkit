@@ -1,0 +1,7 @@
+admin
+login
+panel
+dashboard
+uploads
+test
+blog
